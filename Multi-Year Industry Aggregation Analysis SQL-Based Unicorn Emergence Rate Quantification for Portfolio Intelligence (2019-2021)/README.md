@@ -540,13 +540,3 @@ df['market_share_pct'] = df.apply(
 - **Power Law Returns**: Acknowledge Fintech dominance aligns with venture math (1-2 winners generate 80% of fund returns)
 
 ---
-
-**Analysis Completed**: January 2026  
-**Data Period**: 2019-2021  
-**Database**: Unicorns (PostgreSQL)  
-**Query Execution**: DataCamp Workspace  
-**Results**: 9 rows (3 industries × 3 years)
-
-![Calculator Image](calculator.jpg)
-
-*Did you know that the average return from investing in stocks is 10% per year? This analysis reveals that Fintech unicorns achieved a 169% CAGR (2019-2021)—far exceeding public market returns. By identifying which industries consistently produce billion-dollar companies, investment firms gain the competitive intelligence needed to construct venture portfolios that generate asymmetric returns through strategic sector allocation.*
